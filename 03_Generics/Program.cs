@@ -9,7 +9,7 @@ namespace _03_Generics
         {
             Carros carro = new Carros() { Marca = "FIAT", Modelo = "UNO" };
             Casas casa = new Casas() { Cidade = "Brasília", Endereco = "QSQ 400" };
-            Cadastro usuario = new Cadastro() { Nome = "MARIA", Email = "MARIA@GMAIL.COM", Senha = "123456ABC" };
+            Usuarios usuario = new Usuarios() { Nome = "MARIA", Email = "MARIA@GMAIL.COM", Senha = "123456ABC" };
 
 
             Serializador.Serializar(carro);
@@ -19,7 +19,7 @@ namespace _03_Generics
 
             Carros carro2 = Serializador.Deserializar<Carros>();
             Casas casa2 = Serializador.Deserializar<Casas>();
-            Cadastro usuario2 = Serializador.Deserializar<Cadastro>();
+            Usuarios usuario2 = Serializador.Deserializar<Usuarios>();
 
             var carroString = $"Carro: {carro2.Marca} - {carro2.Modelo}";
             var casaString = $"Carro: {casa2.Cidade} - {casa2.Endereco}";

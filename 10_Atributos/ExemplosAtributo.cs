@@ -9,7 +9,7 @@ namespace _10_Atributos
        
         public void AtributosValidacao()
         {
-            Cadastro cadastro = new Cadastro() { Nome = "Hendy", Email = "Email", Senha = "1234" };
+            Cadastro cadastro = new Cadastro() { Nome = "Maria", Email = "Email", Senha = "1234" };
             ValidationContext validationContext = new ValidationContext(cadastro);
             List<ValidationResult>results = new List<ValidationResult>();
 
@@ -23,7 +23,7 @@ namespace _10_Atributos
         }
         public void AtributosValidacaoCustomizado()
         {
-            Cadastro cadastro = new Cadastro() { Nome = "Hendy", Email = "Email", Senha = "123456" };
+            Cadastro cadastro = new Cadastro() { Nome = "Maria", Email = "Email", Senha = "123456" };
             ValidationContext validationContext = new ValidationContext(cadastro);
             List<ValidationResult> results = new List<ValidationResult>();
 

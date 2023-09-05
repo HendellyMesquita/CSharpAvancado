@@ -48,14 +48,14 @@ namespace _05_LINQ
 
         public void ExemploLINQComObtetos()
         {
-            List<Cadastro> listaUsuario = new List<Cadastro>();
+            List<Usuarios> listaUsuario = new List<Usuarios>();
 
-            listaUsuario.Add(new Cadastro() { Sexo = "M", Nome = "Luiz Pereira", Email = "LuizPereira@Hotmail.Com" });
-            listaUsuario.Add(new Cadastro() { Sexo = "F", Nome = "Ana Maria", Email = "AnaMaria@Gmail.Com" });
-            listaUsuario.Add(new Cadastro() { Sexo = "M", Nome = "Pedro Lucas", Email = "PedroLucas@Hotmail.Com" });
-            listaUsuario.Add(new Cadastro() { Sexo = "F", Nome = "Luiza Maia", Email = "LuizaMaia@Gmail.Com" });
-            listaUsuario.Add(new Cadastro() { Sexo = "M", Nome = "Claudio Bathista", Email = "ClaudioBathista@Hotmail.Com" });
-            listaUsuario.Add(new Cadastro() { Sexo = "F", Nome = "Eduarda Gonçalves", Email = "EduardaGonçalves@Gmail.Com" });
+            listaUsuario.Add(new Usuarios() { Sexo = "M", Nome = "Luiz Pereira", Email = "LuizPereira@Hotmail.Com" });
+            listaUsuario.Add(new Usuarios() { Sexo = "F", Nome = "Ana Maria", Email = "AnaMaria@Gmail.Com" });
+            listaUsuario.Add(new Usuarios() { Sexo = "M", Nome = "Pedro Lucas", Email = "PedroLucas@Hotmail.Com" });
+            listaUsuario.Add(new Usuarios() { Sexo = "F", Nome = "Luiza Maia", Email = "LuizaMaia@Gmail.Com" });
+            listaUsuario.Add(new Usuarios() { Sexo = "M", Nome = "Claudio Bathista", Email = "ClaudioBathista@Hotmail.Com" });
+            listaUsuario.Add(new Usuarios() { Sexo = "F", Nome = "Eduarda Gonçalves", Email = "EduardaGonçalves@Gmail.Com" });
 
             var ListaDeGmail = listaUsuario.Where(a => a.Email.Contains("@Gmail"))
                 .OrderBy(x => x.Nome).Select(x => x.Nome);

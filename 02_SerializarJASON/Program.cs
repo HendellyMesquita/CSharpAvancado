@@ -34,7 +34,7 @@ namespace _02_SerializarJSON
         public static void SerializarJSON()
         {
             JavaScriptSerializer serializador = new JavaScriptSerializer();
-            Cadastro usuario = new Cadastro()
+            Usuarios usuario = new Usuarios()
             {
                 Nome = "Fulano D. Tal .jason",
                 Cpf = "111.111.111-11",
@@ -54,8 +54,8 @@ namespace _02_SerializarJSON
             var linhasArquivo = sr.ReadToEnd();
            
             JavaScriptSerializer serializador = new JavaScriptSerializer();
-            
-            Cadastro usuarioDescerializar = serializador.Deserialize<Cadastro>(linhasArquivo);
+
+            Usuarios usuarioDescerializar = serializador.Deserialize<Usuarios>(linhasArquivo);
             sr.Close();
 
             Console.WriteLine($"Usuario: {usuarioDescerializar.Nome}, " +

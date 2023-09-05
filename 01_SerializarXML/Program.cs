@@ -32,8 +32,8 @@ namespace _01_SerializarXML
 
         public static void SerializarXml()
         {
-            XmlSerializer serializador = new XmlSerializer(typeof(Cadastro));
-            Cadastro usuario = new Cadastro()
+            XmlSerializer serializador = new XmlSerializer(typeof(Usuarios));
+            Usuarios usuario = new Usuarios()
             {
                 Nome = "Fulano D. Tal",
                 Cpf = "000.000.000-00",
@@ -47,9 +47,9 @@ namespace _01_SerializarXML
 
         public static void DeserializarXml()
         {
-            XmlSerializer serializador = new XmlSerializer(typeof(Cadastro));
+            XmlSerializer serializador = new XmlSerializer(typeof(Usuarios));
             StreamReader sr = new StreamReader(caminhoArquivo);
-            Cadastro usuarioDescerializar = (Cadastro)serializador.Deserialize(sr);
+            Usuarios usuarioDescerializar = (Usuarios)serializador.Deserialize(sr);
             sr.Close();
 
             Console.WriteLine($"Usuario: {usuarioDescerializar.Nome}, " +
