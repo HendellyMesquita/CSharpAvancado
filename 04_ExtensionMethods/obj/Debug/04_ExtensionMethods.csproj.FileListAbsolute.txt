@@ -1,0 +1,8 @@
+C:\Users\Usuario\source\repos\C#Avancado\04_ExtensionMethods\bin\Debug\04_ExtensionMethods.exe.config
+C:\Users\Usuario\source\repos\C#Avancado\04_ExtensionMethods\bin\Debug\04_ExtensionMethods.exe
+C:\Users\Usuario\source\repos\C#Avancado\04_ExtensionMethods\bin\Debug\04_ExtensionMethods.pdb
+C:\Users\Usuario\source\repos\C#Avancado\04_ExtensionMethods\obj\Debug\04_ExtensionMethods.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\C#Avancado\04_ExtensionMethods\obj\Debug\04_ExtensionMethods.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\source\repos\C#Avancado\04_ExtensionMethods\obj\Debug\04_ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\C#Avancado\04_ExtensionMethods\obj\Debug\04_ExtensionMethods.exe
+C:\Users\Usuario\source\repos\C#Avancado\04_ExtensionMethods\obj\Debug\04_ExtensionMethods.pdb

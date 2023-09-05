@@ -1,0 +1,17 @@
+C:\Users\Usuario\source\repos\C#Avancado\09_Task\bin\Debug\net6.0-windows\09_Task.exe
+C:\Users\Usuario\source\repos\C#Avancado\09_Task\bin\Debug\net6.0-windows\09_Task.deps.json
+C:\Users\Usuario\source\repos\C#Avancado\09_Task\bin\Debug\net6.0-windows\09_Task.runtimeconfig.json
+C:\Users\Usuario\source\repos\C#Avancado\09_Task\bin\Debug\net6.0-windows\09_Task.dll
+C:\Users\Usuario\source\repos\C#Avancado\09_Task\bin\Debug\net6.0-windows\09_Task.pdb
+C:\Users\Usuario\source\repos\C#Avancado\09_Task\obj\Debug\net6.0-windows\09_Task.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\C#Avancado\09_Task\obj\Debug\net6.0-windows\09_Task.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\C#Avancado\09_Task\obj\Debug\net6.0-windows\09_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\C#Avancado\09_Task\obj\Debug\net6.0-windows\09_Task.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\C#Avancado\09_Task\obj\Debug\net6.0-windows\09_Task.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\C#Avancado\09_Task\obj\Debug\net6.0-windows\09_Task.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\C#Avancado\09_Task\obj\Debug\net6.0-windows\09_Task.dll
+C:\Users\Usuario\source\repos\C#Avancado\09_Task\obj\Debug\net6.0-windows\refint\09_Task.dll
+C:\Users\Usuario\source\repos\C#Avancado\09_Task\obj\Debug\net6.0-windows\09_Task.pdb
+C:\Users\Usuario\source\repos\C#Avancado\09_Task\obj\Debug\net6.0-windows\09_Task.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\C#Avancado\09_Task\obj\Debug\net6.0-windows\ref\09_Task.dll
+C:\Users\Usuario\source\repos\C#Avancado\09_Task\obj\Debug\net6.0-windows\_09_Task.FormDownloadWeb.resources

@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\C#Avancado\00_Biblioteca\bin\Debug\net6.0\00_Biblioteca.deps.json
+C:\Users\Usuario\source\repos\C#Avancado\00_Biblioteca\bin\Debug\net6.0\00_Biblioteca.dll
+C:\Users\Usuario\source\repos\C#Avancado\00_Biblioteca\bin\Debug\net6.0\00_Biblioteca.pdb
+C:\Users\Usuario\source\repos\C#Avancado\00_Biblioteca\obj\Debug\net6.0\00_Biblioteca.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\C#Avancado\00_Biblioteca\obj\Debug\net6.0\00_Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\C#Avancado\00_Biblioteca\obj\Debug\net6.0\00_Biblioteca.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\C#Avancado\00_Biblioteca\obj\Debug\net6.0\00_Biblioteca.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\C#Avancado\00_Biblioteca\obj\Debug\net6.0\00_Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\C#Avancado\00_Biblioteca\obj\Debug\net6.0\00_Biblioteca.dll
+C:\Users\Usuario\source\repos\C#Avancado\00_Biblioteca\obj\Debug\net6.0\refint\00_Biblioteca.dll
+C:\Users\Usuario\source\repos\C#Avancado\00_Biblioteca\obj\Debug\net6.0\00_Biblioteca.pdb
+C:\Users\Usuario\source\repos\C#Avancado\00_Biblioteca\obj\Debug\net6.0\ref\00_Biblioteca.dll
+C:\Users\Usuario\source\repos\C#Avancado\00_Biblioteca\obj\Debug\net6.0\_00_Biblioteca.Idiomas.Linguagem.resources
+C:\Users\Usuario\source\repos\C#Avancado\00_Biblioteca\obj\Debug\net6.0\_00_Biblioteca.Idiomas.LinguagemUS.resources
+C:\Users\Usuario\source\repos\C#Avancado\00_Biblioteca\obj\Debug\net6.0\00_Biblioteca.csproj.GenerateResource.cache

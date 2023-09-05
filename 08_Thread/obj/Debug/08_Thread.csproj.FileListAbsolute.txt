@@ -1,0 +1,8 @@
+C:\Users\Usuario\source\repos\C#Avancado\08_Thread\bin\Debug\08_Thread.exe.config
+C:\Users\Usuario\source\repos\C#Avancado\08_Thread\bin\Debug\08_Thread.exe
+C:\Users\Usuario\source\repos\C#Avancado\08_Thread\bin\Debug\08_Thread.pdb
+C:\Users\Usuario\source\repos\C#Avancado\08_Thread\obj\Debug\08_Thread.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\C#Avancado\08_Thread\obj\Debug\08_Thread.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\source\repos\C#Avancado\08_Thread\obj\Debug\08_Thread.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\C#Avancado\08_Thread\obj\Debug\08_Thread.exe
+C:\Users\Usuario\source\repos\C#Avancado\08_Thread\obj\Debug\08_Thread.pdb
