@@ -1,0 +1,17 @@
+https://www.devmedia.com.br/programacao-assincrona-multithreading-em-net-com-csharp/23357
+O que são Threads?
+
+Thread é uma forma de um processo dividir a si mesmo em duas ou mais tarefas, podendo executar elas concorrentemente.
+O suporte a threads é oferecido pelos Sistemas Operacionais, ou por bibliotecas de algumas linguagens de programação
+
+enquanto single-thread ezeculta de maneira continua uma lista de tarefas, a multithreads permite ezeculta varios processos simultaneamente
+
+Exemplos de quando utilizar multithreads: 
+Jogos de videogame = para processar imagem, audio, movimentação e atualização de eventos
+Sistema de Mensagem = para tratar um grande volume de entrada e saida de mensagens 
+
+Exemplos de quando NÃO utilizar multithreads: 
+Sistemas multithreads são complexas e complicadas de controlar, devem ser utilizadas apenas em sistemas complexos e grandes que nescessitam
+não devem ser utilizadas em sistemas basicos e de pouco fluxo de informação
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
